@@ -1,0 +1,23 @@
+{
+  "name": "minutemaker",
+  "version": "1.0.0",
+  "description": "Command-line app that simplifies the process of minuting meetings",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicksertis/minutemaker.git"
+  },
+  "author": "Nick Sertis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicksertis/minutemaker/issues"
+  },
+  "homepage": "https://github.com/nicksertis/minutemaker#readme",
+  "dependencies": {
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0"
+  }
+}
